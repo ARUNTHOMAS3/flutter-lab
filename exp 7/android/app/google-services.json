@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105068145437",
+    "project_id": "exp-7-aa3af",
+    "storage_bucket": "exp-7-aa3af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105068145437:android:2be72bd366e59986054ff4",
+        "android_client_info": {
+          "package_name": "com.example.exp5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXQY8J4SQ0joVouAnLGnMtz-NlAqlydh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
